@@ -1,5 +1,4 @@
 # DeepLearingBase
-# learning DL example
 
 How to use?
 eg.1: run single example
